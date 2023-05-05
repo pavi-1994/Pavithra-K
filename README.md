@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavithra K</h1>
 <h3 align="center">Data Science Professional with Strong Expertise in Python, ML & SQL</h3>
 
-<img allign="center" alt="coding" width="400" src="https://cdn.futura-sciences.com/buildsv6/images/wide1920/8/c/0/8c0247527b_50165683_big-data.jpg">
+<img allign="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE1MWIwZmFlMGJhZTIyYmYyNDhkMTBiNzk0ZjYzZjQ3ZTRmMDM0MCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavi-1994&label=Profile%20views&color=0e75b6&style=flat" alt="pavi-1994" /> </p>
 
